@@ -1,3 +1,5 @@
+# 0.0.2: Strings in Python
+
 # Strings sind eine Folge von Zeichen, die in Python durch Anführungszeichen 
 # dargestellt werden. Strings können in einfachen (' '), doppelten (" ") 
 # oder dreifachen (''' ''' oder """ """) Anführungszeichen geschrieben werden.
