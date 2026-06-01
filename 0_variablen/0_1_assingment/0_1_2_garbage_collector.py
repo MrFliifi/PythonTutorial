@@ -6,10 +6,15 @@
 # auf einen Wert auf null sinkt, wird der Wert automatisch gelöscht und der Speicher freigegeben.
 
 # Variablen sind Referenzen auf Werte im Speicher. Der Wert liegt also im Speicher (RAM) und 
-# die Variable ist eine Möglichkeit auf diesen Wert zuzugreifen. Wenn eine Variable auf einen 
-# Wert zeigt, erhöht sich die Anzahl der Referenzen auf diesen Wert um eins. 
-# Wenn eine Variable auf einen anderen Wert zeigt oder gelöscht wird, verringert sich die Anzahl
-# der Referenzen auf den ursprünglichen Wert um eins. Das bedeutet auch, dass mehr als eine 
+# die Variable ist eine Möglichkeit auf diesen Wert zuzugreifen. # Die Werte der Variablen bleiben 
+# solange erhalten, wie das Programm läuft. Das nennt sich Laufzeit. Endet das Programm, werden 
+# alle Werte im Speicher gelöscht. Es ist also nicht möglich, dass Werte im Speicher bleiben, 
+# nachdem das Programm beendet wurde. Möchte man Daten dauerhaft speichern, braucht man eine 
+# Datenbank oder eine andere Datei, in der die Daten gespeichert werden können.
+
+# Wenn eine Variable auf einen Wert zeigt, erhöht sich die Anzahl der Referenzen auf diesen Wert 
+# um eins. Wenn eine Variable auf einen anderen Wert zeigt oder gelöscht wird, verringert sich die 
+# Anzahl der Referenzen auf den ursprünglichen Wert um eins. Das bedeutet auch, dass mehr als eine 
 # Variable auf denselben Wert zeigen kann. Im Umkehrschluss bedeutet das aber auch, dass auch keine
 # Variable auf einen Wert zeigen kann. In diesem Fall wird der Wert als "unreferenced" bezeichnet 
 # und vom Garbage Collector gelöscht.
@@ -26,6 +31,7 @@ a = 42
 b = "String"    
 # b zeigt jetzt auf den Wert "String". 
 # Die Referenzanzahl für 23 ist jetzt 0. 23 wird aus dem Speicher gelöscht.
+
 
 # TODO:
 # 1. Definiere eine Variable und weise ihr einen Wert zu
