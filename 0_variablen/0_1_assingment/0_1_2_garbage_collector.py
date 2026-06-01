@@ -26,3 +26,8 @@ a = 42
 b = "String"    
 # b zeigt jetzt auf den Wert "String". 
 # Die Referenzanzahl für 23 ist jetzt 0. 23 wird aus dem Speicher gelöscht.
+
+# TODO:
+# 1. Definiere eine Variable und weise ihr einen Wert zu
+# 2. Definiere eine weitere Variable und weise ihr denselben Wert zu
+# 3. Ändere den Wert aller Variablen so, dass keine Referenz mehr auf den ursprünglichen Wert zeigt
