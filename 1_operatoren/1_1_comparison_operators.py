@@ -28,14 +28,14 @@ print("5 < 10: ", 5 < 10)     # Ausgabe: True
 print("5 < 3: ", 5 < 3)       # Ausgabe: False
 
 # >= vergleicht, ob der linke Wert größer oder gleich dem rechten Wert ist. Zum Beispiel:
-print("5 >= 5: ", 5 >= 5)      # Ausgabe: True
-print("5 >= 3: ", 5 >= 3)      # Ausgabe: True
-print("5 >= 10: ", 5 >= 10)    # Ausgabe: False
+print("5 >= 5: ", 5 >= 5)     # Ausgabe: True
+print("5 >= 3: ", 5 >= 3)     # Ausgabe: True
+print("5 >= 10: ", 5 >= 10)   # Ausgabe: False
 
 # <= vergleicht, ob der linke Wert kleiner oder gleich dem rechten Wert ist. Zum Beispiel:
-print("5 <= 5: ", 5 <= 5)      # Ausgabe: True
-print("5 <= 10: ", 5 <= 10)    # Ausgabe: True
-print("5 <= 3: ", 5 <= 3)      # Ausgabe: False
+print("5 <= 5: ", 5 <= 5)     # Ausgabe: True
+print("5 <= 10: ", 5 <= 10)   # Ausgabe: True
+print("5 <= 3: ", 5 <= 3)     # Ausgabe: False
 
 
 # comparison operators können auch mit Variablen verwendet werden. Zum Beispiel:
