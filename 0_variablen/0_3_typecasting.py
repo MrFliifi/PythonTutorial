@@ -1,7 +1,9 @@
 # 0.3: typercasting in Python
 
-# Man kann den Datentyp einer Variable in Python mit sogenannten "typecasting" oder "type conversion" ändern.
-# Es gibt eingebaute Funktionen, die es ermöglichen, Werte von einem Datentyp in einen anderen zu konvertieren. 
+# Man kann den Datentyp einer Variable in Python mit sogenannten "typecasting" oder "type conversion" ändern. 
+# Das ist möglich, weil Python dynamisch typisiert ist, was bedeutet, dass der Datentyp einer Variable zur Laufzeit 
+# bestimmt wird und sich ändern kann. Es gibt eingebaute Funktionen, die es ermöglichen, Werte von einem Datentyp in 
+# einen anderen zu konvertieren. 
 # Hier sind einige der häufigsten Funktionen für die Typumwandlung:
 
 # int(): Konvertiert einen Wert in einen Integer (Ganzzahl).
