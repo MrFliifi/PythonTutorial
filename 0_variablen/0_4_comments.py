@@ -1,4 +1,4 @@
-# 0.4: Kommentare in Python
+# 0.4: Kommentare
 
 # Kommentare haben keinen Datentyp. Wir behandeln sie trotzdem hier.
 

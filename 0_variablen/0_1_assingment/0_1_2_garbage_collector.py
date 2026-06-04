@@ -1,4 +1,4 @@
-# 0.1.2: Garbage Collector in Python
+# 0.1.2: Garbage Collector
 
 # Der Garbage Collector ist ein Mechanismus in Python, der automatisch nicht mehr benötigte 
 # Werte im Speicher freigibt. Er verwendet eine Technik namens "Reference Counting", um 

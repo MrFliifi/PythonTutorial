@@ -1,4 +1,4 @@
-# 0.3: typercasting in Python
+# 0.3: typercasting
 
 # Man kann den Datentyp einer Variable in Python mit sogenannten "typecasting" oder "type conversion" ändern. 
 # Das ist möglich, weil Python dynamisch typisiert ist, was bedeutet, dass der Datentyp einer Variable zur Laufzeit 

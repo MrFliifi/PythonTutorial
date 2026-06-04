@@ -1,4 +1,4 @@
-# 0.1.0: Benennung und Zuweisung von Variablen in Python
+# 0.1.0: Benennung und Zuweisung von Variablen
 
 # Variablen sind Behälter für Daten. Sie können verschiedene Datentypen 
 # speichern, wie z.B. Integer, Strings oder Booleans. Sie sind aber nicht auf

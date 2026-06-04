@@ -1,4 +1,4 @@
-# 0.0.1: Floats in Python
+# 0.0.1: Floats
 
 # Floats sind Gleitkommazahlen, also Zahlen mit Nachkommastellen. 
 # In Python werden Floats durch die Verwendung eines Dezimalpunkts dargestellt.

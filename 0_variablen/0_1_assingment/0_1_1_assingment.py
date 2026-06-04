@@ -1,4 +1,4 @@
-# 0.1.1: Variablenzuweisung in Python
+# 0.1.1: Variablenzuweisung
 
 # Variablen kann man einen Wert zu ordnen. Das macht man mit den assingment operator "=". 
 # Auf der linken Seite des "=" steht der Name der Variable und auf der rechten Seite der Wert.

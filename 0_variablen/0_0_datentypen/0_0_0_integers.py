@@ -1,4 +1,4 @@
-# 0.0.0: Integer in Python
+# 0.0.0: Integer
 
 # Integer bezeichnet eine ganze Zahl, also eine Zahl ohne Nachkommastellen. 
 # In Python können Integer beliebig groß sein, solange genügend Speicher vorhanden ist.

@@ -1,4 +1,4 @@
-# 1.0.0: Arithmatische Operatoren in Python
+# 1.0.0: Arithmatic Operators
 
 # Arithmatische Operatoren kennen wir bereits aus der Mathematik. Sie ermöglichen es uns, 
 # mathematische Operationen durchzuführen. In Python gibt es die folgenden arithmatischen 

@@ -1,4 +1,4 @@
-# 0.0.3: Booleans in Python
+# 0.0.3: Booleans
 
 # Im programmieren mit den meisten Sprachen gibt es einen Datentyp,
 # der nur zwei Werte annehmen kann: True (wahr) und False (falsch). 

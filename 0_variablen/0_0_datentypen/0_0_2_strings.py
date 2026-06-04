@@ -1,4 +1,4 @@
-# 0.0.2: Strings in Python
+# 0.0.2: Strings
 
 # Strings sind eine Folge von Zeichen, die in Python durch Anführungszeichen 
 # dargestellt werden. Strings können in einfachen (' '), doppelten (" ") 

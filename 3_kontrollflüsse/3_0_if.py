@@ -14,10 +14,11 @@
 # abgeschlossen wird. Anschließend folgt ein eingerückter Codeblock, der nur ausgeführt wird, 
 # wenn die condition True ist. Hier ist ein einfaches Beispiel:
 
-condition = True # Die condition muss entwerder True, False, truthy oder falsy sein. 
+condition = True    # Die condition muss entwerder True, False, truthy oder falsy sein. 
 
-if condition:
-    print("Diese Zeile wird nur ausgeführt, wenn die condition True ist.")
+if condition:       # if-Statement bestehend aus den if-Keyword, der condition und einem :
+    # Der Codeblock des if-Statements.
+    print("Diese Zeile wird nur ausgeführt, wenn die condition True ist.") 
     print("Es können beliebig viele Zeilen in diesem Block sein.")  
 
 # Die condition ist oft komplexer als nur True oder False. Sie kann auch Vergleiche 
@@ -80,8 +81,8 @@ else:
 # Hier ist ein Beispiel:
 
 x = int(input("Gib eine Zahl ein: "))
-if x > 0:                       # if-Statement bestehend aus den if-Keyword, der condition und einem :.
-    print("x ist positiv")      # Der Codeblock des if-Statements.
+if x > 0:                       
+    print("x ist positiv")      
 if x < 0:
     print("x ist negativ")
 if x == 0:
@@ -90,9 +91,12 @@ if x == 0:
 # Schreiben wir unser if-Statement so, werden alle conditions überprüft, auch wenn die erste 
 # condition True ist. 
 
+# Jetzt ist ein guter Zeitpunkt, um sich Logical Operators anzuschauen.
+
 # TODO:
 # 1. Schreibe ein Programm, dass den Benutzer nach seinem Alter fragt und dann ausgibt, ob 
 # er minderjährig, volljährig oder senior ist. (Minderjährig: < 18, Volljährig: >= 18 und < 65, Senior: >= 65)
 # 2. Schreibe ein Programm, dass den Benutzer nach einer Zahl fragt und dann ausgibt, ob die Zahl positiv, 
 # negativ oder null ist. 
 # 3. Schreibe ein Programm, dass den Nutzer nach zwei Strings fragt und dann ausgibt, ob sie gleich sind.
+# 4. Schreibe ein Programm, dass eine condition mit dem "and" und eine condition mit dem "or" operator prüft.

@@ -1,4 +1,4 @@
-# 1.1: comparison operators in Python
+# 1.2: Comparison Operators
 
 # comparison operators ermöglichen es uns, Werte miteinander zu vergleichen. 
 # Sie geben immer einen Boolean-Wert (True oder False) zurück. Es gibt die 
@@ -45,8 +45,11 @@ print("a == b: ", a == b)     # Ausgabe: False
 print("a != b: ", a != b)     # Ausgabe: True
 print("a > b: ", a > b)       # Ausgabe: False
 
-# Comparison operators sind nützlich, um Bedingungen zu überprüfen und Entscheidungen in unserem Code zu treffen. Dazu mehr im Kapitel über kontrollflüsse.
+# Comparison operators sind nützlich, um Bedingungen zu überprüfen und Entscheidungen 
+# in unserem Code zu treffen. Dazu mehr im Kapitel über kontrollflüsse.
 
 # TODO:
 # 1. Definiere vier Variablen mit unterschiedlichen Datentypen (Integer, Float, String, Boolean)
-# 2. Vergleiche diese Variablen miteinander mit allen comparison operators und gib die Ergebnisse mit print() aus. Beobachte, welche Vergleiche möglich sind und welche nicht. Was fällt dir auf? Welche Datentypen können miteinander verglichen werden und welche nicht?
+# 2. Vergleiche diese Variablen miteinander mit allen comparison operators und gib die Ergebnisse 
+# mit print() aus. Beobachte, welche Vergleiche möglich sind und welche nicht. Was fällt dir auf? 
+# Welche Datentypen können miteinander verglichen werden und welche nicht?

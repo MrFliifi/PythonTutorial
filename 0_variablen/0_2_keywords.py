@@ -1,4 +1,4 @@
-# 0.2: Keywords in Python
+# 0.2: Keywords
 
 # Keywords sind reservierte Wörter, die eine spezielle Funktion in Python haben. Sie können nicht als 
 # Bezeichner (z.B. Variablennamen, Funktionsnamen) verwendet werden. Welche Wörter das sind, wurde von
