@@ -4,6 +4,11 @@
 # unterschiedliche Kontrollflüsse. Einer davon ist das if keyword. Es ermöglicht es uns, 
 # bestimmte Codeblöcke nur unter bestimmten conditions auszuführen. 
 
+# Hierbei gibt es drei keywords, die wir kennen müssen:
+# - if condition: + body
+# - elif condition: + body
+# - else: + body
+
 # Ein If-Statement is folgendermaßen aufgebaut:
 # Zuerst kommt immer das if keyword. Danach folgt eine condition, die durch einen Doppelpunkt 
 # abgeschlossen wird. Anschließend folgt ein eingerückter Codeblock, der nur ausgeführt wird, 
