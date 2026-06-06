@@ -6,11 +6,12 @@
 
 
 # Hier ein Beispiel für break in while loops:
-print("Hier breaken wir einen while loop: ")
+print("Hier breaken wir einem while loop: ")
 x = 0
 while True:
     print(x)
     if (x == 10):
+        print("Der loops endet bei der 10-ten Iteration.")
         break
     else:
         x += 1
@@ -19,7 +20,7 @@ while True:
 fruits = ["apple", "banana", "pineapple"]
 
 print()
-print("Hier breaken wir einen for loop: ")
+print("Hier breaken wir einem for loop: ")
 for fruit in fruits:
     if fruit == "banana":
         print("Banane wollen wir nicht!")
@@ -34,7 +35,7 @@ for fruit in fruits:
 
 # Hier ein Beispiel für continue in while loops:
 print()
-print("Hier benutzen wir continue in einen while loop: ")
+print("Hier benutzen wir continue in einem while loop: ")
 x = 0
 while True:
     x += 1
@@ -47,7 +48,7 @@ while True:
     print(x)
     
 print()
-print("Hier benutzen wir continue in einen for loop: ")
+print("Hier benutzen wir continue in einem for loop: ")
 for x in range(10):
     if x == 5:
         print("Skip!")
