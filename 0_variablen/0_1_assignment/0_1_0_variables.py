@@ -11,7 +11,7 @@
 # dürfen keine keywords verwendet werden, wie z.B. "if", "else", "for", "while", etc.
 # Verwendet man keywords, so wird ein SyntaxError ausgelöst. 
 
-# Beim benennen von Variablen und Funktionen gibt es verschiedene Konventionen, wie 
+# Beim benennen von Variablen und fuctions gibt es verschiedene Konventionen, wie 
 # z.B. camelCase, snake_case oder PascalCase. In Python wird üblicherweise die
 # snake_case Konvention verwendet. Das bedeutet, dass die Wörter klein geschrieben 
 # sind und durch Unterstriche getrennt werden, z.B. "my_variable_name".
@@ -40,7 +40,7 @@ print("MEIN_STRING: ", MEIN_STRING)     # Ausgabe: "Hallo, Welt!"
 
 
 # TODO: 
-# 1. Definiere drei gultige, aber unterschiedliche Variablen 
+# 1. Definiere drei gültige, aber unterschiedliche Variablen 
 # 2. Gib ihnen Werte mit unterschiedlichen Datentypen 
 # 3. Gib die Werte der Variablen mit print(variablen_name) aus
 

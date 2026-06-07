@@ -1,6 +1,6 @@
-# 0.1.1: Variablenzuweisung
+# 0.1.1: Assignment
 
-# Variablen kann man einen Wert zu ordnen. Das macht man mit den assingment operator "=". 
+# Variablen kann man einen Wert zu ordnen. Das macht man mit den assignment operator "=". 
 # Auf der linken Seite des "=" steht der Name der Variable und auf der rechten Seite der Wert.
 # Anders herum würde es nicht funktionieren, da der Name der Variable auf der linken Seite 
 # stehen muss.
@@ -20,7 +20,7 @@ print("mein_integer: ", mein_integer)   # Ausgabe: 52
 
 # Wir haben also mit dem Namen der Variable "mein_integer" den Wert 42 abgerufen, 
 # diesen um 10 erhöht und mit dem neuen Wert 52 überschrieben. Außerdem haben wir 
-# den Wert der Vairiable abgerufen und mit print() ausgegeben.
+# den Wert der Variable abgerufen und mit print() ausgegeben.
 
 # Variablen können auch durch Werte mit anderen Datentypen überschrieben werden.
 print("mein_flo4t: ", mein_flo4t)       # Ausgabe: 3.14
@@ -34,7 +34,7 @@ print("mein_flo4t: ", mein_flo4t)       # Ausgabe: "Hallo, Welt!"
 
 
 # TODO: 
-# 1. Definiere drei gultige, aber unterschiedliche Variablen 
+# 1. Definiere drei gültige, aber unterschiedliche Variablen 
 # 2. Gib ihnen Werte mit unterschiedlichen Datentypen 
 # 3. Gib die Werte der Variablen mit print(variablen_name) aus
 # 4. Ändere die Werte der Variablen und gib sie erneut aus

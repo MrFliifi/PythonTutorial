@@ -1,4 +1,4 @@
-# 0.4: Kommentare
+# 0.4: Comments
 
 # Kommentare haben keinen Datentyp. Wir behandeln sie trotzdem hier.
 
@@ -17,3 +17,7 @@ x = 1 + 1 # Das wiederum würde Python ausführen.
 
 # Das hier ist ein gültiger Kommentar
 Das hier ist kein gültiger Kommentar und würde zu einem Syntaxfehler führen
+
+
+# TODO:
+# 1. Sorge dafür, dass Zeile 19 ein gültiger Kommentar ist.

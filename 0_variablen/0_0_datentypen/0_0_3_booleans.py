@@ -1,6 +1,6 @@
 # 0.0.3: Booleans
 
-# Im programmieren mit den meisten Sprachen gibt es einen Datentyp,
+# Beim programmieren mit den meisten Sprachen gibt es einen Datentyp,
 # der nur zwei Werte annehmen kann: True (wahr) und False (falsch). 
 # Dieser Datentyp nennt sich Boolean. 
 
@@ -8,7 +8,7 @@
 # Booleans werden oft in Bedingungen verwendet, um Entscheidungen zu treffen (if) oder 
 # Schleifen zu steuern (while).
 
-# Beispiele für Booleans sind:
+# Booleans entweder sind:
 True
 False
 

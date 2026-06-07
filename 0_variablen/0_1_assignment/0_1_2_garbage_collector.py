@@ -6,7 +6,7 @@
 # auf einen Wert auf null sinkt, wird der Wert automatisch gelöscht und der Speicher freigegeben.
 
 # Variablen sind Referenzen auf Werte im Speicher. Der Wert liegt also im Speicher (RAM) und 
-# die Variable ist eine Möglichkeit auf diesen Wert zuzugreifen. # Die Werte der Variablen bleiben 
+# die Variable ist eine Möglichkeit auf diesen Wert zuzugreifen. Die Werte der Variablen bleiben 
 # solange erhalten, wie das Programm läuft. Das nennt sich Laufzeit. Endet das Programm, werden 
 # alle Werte im Speicher gelöscht. Es ist also nicht möglich, dass Werte im Speicher bleiben, 
 # nachdem das Programm beendet wurde. Möchte man Daten dauerhaft speichern, braucht man eine 
@@ -32,7 +32,7 @@ b = "String"
 # b zeigt jetzt auf den Wert "String". 
 # Die Referenzanzahl für 23 ist jetzt 0. 23 wird aus dem Speicher gelöscht.
 
-
+# TODO: add print calls!
 # TODO:
 # 1. Definiere eine Variable und weise ihr einen Wert zu
 # 2. Definiere eine weitere Variable und weise ihr denselben Wert zu
