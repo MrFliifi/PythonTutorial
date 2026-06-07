@@ -5,8 +5,11 @@
 # tuples erkennt man an folgendem Syntax:
 
 tuple_name = ("ein Wert", 2, True)
+print("Unser tuple: ", tuple_name)
+print()
+
 # Zuerst definiert man einen Namen. Darauf folgt der assignment operator =. Das tuple wird
-# dann mit () geöffnet. Man kann dann beliebig viele Werte, mit beliebigen Datentypen 
+# dann mit ( geöffnet. Man kann dann beliebig viele Werte, mit beliebigen Datentypen 
 # eintragen. Jeder Wert muss durch ein , getrennt sein. Abschließen tut man das tuple mit ).
 
 # Anders als bei lists, kann ein tuple nicht mehr verändert werden. tuples sind also konstant.

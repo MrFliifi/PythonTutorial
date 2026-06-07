@@ -3,7 +3,11 @@
 # lists sind container. Es ist also eine Variable, die 0 bis n Werte beinhalten kann.
 # lists sind ordered und mutable.
 # lists erkennt man an folgendem Syntax:
+
 list_name = ["ein Wert", 2, True]
+print("Unsere list: ", list_name)
+print()
+
 # Zuerst definiert man einen Namen. Darauf folgt der assignment operator =. Die list wird
 # dann mit [ geöffnet. Man kann dann beliebig viele Werte, mit beliebigen Datentypen 
 # eintragen. Jeder Wert muss durch ein , getrennt sein. Abschließen tut man die list mit ].
