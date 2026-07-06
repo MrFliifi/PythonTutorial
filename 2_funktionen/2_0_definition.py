@@ -36,11 +36,11 @@ def hallo_welt():  # Diese Funktion hat keine Parameter
 print("Ich bin kein Teil der Funktion")  # Diese Zeile gehört nicht zum Body der Funktion
     
 # TODO:
-# 1. Definiere eine Funktion, die zwei Strings als Parameter nimmt und sie miteinander addiert (konkateniert) 
+# 1. Definiere eine Funktion und führe sie aus, die zwei Strings als Parameter nimmt und sie miteinander addiert (konkateniert) 
 # und das Ergebnis mit print() ausgibt.
-# 2. Definiere eine Funktion, die einen einen Float und einen Integer als Parameter nimmt und sie miteinander 
+# 2. Definiere eine Funktion und führe sie aus, die einen einen Float und einen Integer als Parameter nimmt und sie miteinander 
 # multipliziert und das Ergebnis mit print() ausgibt.
-# 3. Definiere eine Funktion, die keinen Parameter nimmt und einfach "Hallo, Welt!" mit print() ausgibt.
-# 4. Definiere eine Funktion, die drei Parameter nimmt. Der erste Parameter soll mit dem zweiten addiert werden. 
+# 3. Definiere eine Funktion und führe sie aus, die keinen Parameter nimmt und einfach "Hallo, Welt!" mit print() ausgibt.
+# 4. Definiere eine Funktion und führe sie aus, die drei Parameter nimmt. Der erste Parameter soll mit dem zweiten addiert werden. 
 # Das Ergebnis soll in eine Variable gespeichert und mit dem Dritten multipliziert werden. Das Endergebnis soll 
 # mit print() ausgegeben werden.
