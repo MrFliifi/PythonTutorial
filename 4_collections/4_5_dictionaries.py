@@ -115,7 +115,7 @@ print(inventory["fruits"]["apple"])
 print()
 
 # Dictionary Comprehension
-# Mit einer sogenannten Comprehension können Sie ein Dictionary kompakt aus einer
+# Mit einer sogenannten Comprehension kannst du ein Dictionary kompakt aus einer
 # Iteration erzeugen. Im folgenden Beispiel wird für jede Zahl n ihr Quadrat als
 # Wert im Dictionary gespeichert.
 squares = {n: n * n for n in range(6)}
