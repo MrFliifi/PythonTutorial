@@ -1,4 +1,4 @@
-# 6.1. Your Script
+# 6.1: Your Script
 
 # Zum Abschluss sollst du nun ein eigenes Script erstellen. Falls du eine eigene Idee hast, setze diese gerne um. 
 # Ansonsten habe ich folgende Projekte für dich:
@@ -20,3 +20,5 @@
 # - Die Wahl des Nutzers und des Scripts vergleicht und den Sieger feststellt
 # - Einen Score speichert und Anzeigt
 # - Anhand vom Score den Sieger über alle Runden hinweg feststellt (Bei 5 Runden gewinnt der Erste bei 3 Punkten usw.)
+# - Das Error-handling bei einer illegalen Eingabe hat
+# - solange läuft, bis es einen Gewinner gibt

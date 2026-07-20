@@ -32,8 +32,9 @@ b = "String"
 # b zeigt jetzt auf den Wert "String". 
 # Die Referenzanzahl für 23 ist jetzt 0. 23 wird aus dem Speicher gelöscht.
 
-# TODO: add print calls!
 # TODO:
-# 1. Definiere eine Variable und weise ihr einen Wert zu
-# 2. Definiere eine weitere Variable und weise ihr denselben Wert zu
-# 3. Ändere den Wert aller Variablen so, dass keine Referenz mehr auf den ursprünglichen Wert zeigt
+# 1. Definiere eine Variable und weise ihr einen Wert zu. Gib ihren Wert mit print() in der Konsole aus.
+# 2. Definiere eine weitere Variable und weise ihr denselben Wert zu. Gib ihren Wert mit print() in der 
+# Konsole aus.
+# 3. Ändere den Wert aller Variablen so, dass keine Referenz mehr auf den ursprünglichen Wert zeigt. Gib 
+# deren Werte mit print() in der Konsole aus.
