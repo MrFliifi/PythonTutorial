@@ -27,14 +27,14 @@ print("mein_flo4t: ", mein_flo4t)       # Ausgabe: 3.14
 mein_flo4t = "Hallo, Welt!"             # mein_flo4t hat jetzt den Wert "Hallo, Welt!"
 print("mein_flo4t: ", mein_flo4t)       # Ausgabe: "Hallo, Welt!"
 
-# Hier hat sich der Wert vom Typ Float zu einem String geändert. Das ist in Python möglich, 
+# Hier hat sich der Wert vom Typ float zu einem String geändert. Das ist in Python möglich, 
 # da Variablen dynamisch typisiert sind. Das bedeutet, dass der Datentyp einer Variable zur 
 # Laufzeit geändert werden kann. Sind Variablen veränderbar, nennt man diese mutable. 
 # Sind sie unveränderbar, nennt man sie immutable. 
 
 
 # TODO: 
-# 1. Definiere drei gültige, aber unterschiedliche Variablen 
-# 2. Gib ihnen Werte mit unterschiedlichen Datentypen 
-# 3. Gib die Werte der Variablen mit print(variablen_name) aus
-# 4. Ändere die Werte der Variablen und gib sie erneut aus
+# 1. Definiere drei gültige, aber unterschiedliche Variablen.
+# 2. Gib ihnen Werte mit unterschiedlichen Datentypen.
+# 3. Gib die Werte der Variablen mit print(variablen_name) aus.
+# 4. Ändere die Werte der Variablen und gib sie erneut aus.

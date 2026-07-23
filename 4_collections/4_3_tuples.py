@@ -1,18 +1,18 @@
 # 4.3: Tuples
 
-# tuples sind container. Es ist also eine Variable, die 0 bis n Werte beinhalten kann.
-# tuples sind ordered und immutable.
-# tuples erkennt man an folgendem Syntax:
+# Tuples sind container. Es ist also eine Variable, die 0 bis n Werte beinhalten kann.
+# Tuples sind ordered und immutable.
+# Man erkennt sie an folgender Syntax:
 
 tuple_name = ("ein Wert", 2, True)
 print("Unser tuple: ", tuple_name)
 print()
 
 # Zuerst definiert man einen Namen. Darauf folgt der assignment operator =. Das tuple wird
-# dann mit ( geöffnet. Man kann dann beliebig viele Werte, mit beliebigen Datentypen 
-# eintragen. Jeder Wert muss durch ein , getrennt sein. Abschließen tut man das tuple mit ).
+# dann mit ( geöffnet. Man kann beliebig viele Werte, mit beliebigen Datentypen 
+# eintragen. Jeder Wert muss durch ein Komma getrennt sein. Abgeschlossen wird das tuple mit ).
 
-# Anders als bei lists, kann ein tuple nicht mehr verändert werden. tuples sind also konstant.
+# Anders als bei lists, kann ein tuple nicht mehr verändert werden. Tuples sind also konstant.
 # Muss man ein tuple aber dennoch verändern, kann man die Werte des tuples in eine list schreiben,
 # die list verändern und ein neues tuple mit den Werten der list erstellen.
 # Hier ein Beispiel dafür:

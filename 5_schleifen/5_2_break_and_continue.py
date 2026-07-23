@@ -1,17 +1,17 @@
 # 5.2: Break and Continue
 
-# break und continue sind keywords, die in loops eingesetzt werden können. break beendet
+# Break und continue sind keywords, die in loops eingesetzt werden können. Break beendet
 # einen loop ungeachtet ob die condition im Kopf des loops True ist, oder ungeachtet, ob
 # es noch Werte in einem container gibt. 
 
 
 # Hier ein Beispiel für break in while loops:
-print("Hier breaken wir einem while loop: ")
+print("Hier breaken wir einen while loop: ")
 x = 0
 while True:
     print(x)
     if (x == 10):
-        print("Der loops endet bei der 10-ten Iteration.")
+        print("Der loop endet bei der zehnten Iteration.")
         break
     else:
         x += 1
@@ -30,7 +30,7 @@ for fruit in fruits:
     print(fruit)
     
     
-# continue ist nicht so extrem wie break. contunie überspring nur die aktuelle iteration 
+# continue ist nicht so extrem wie break. continue überspringt nur die aktuelle iteration 
 # des loops, beendet diesen aber nicht komplett. 
 
 # Hier ein Beispiel für continue in while loops:
@@ -39,7 +39,7 @@ print("Hier benutzen wir continue in einem while loop: ")
 x = 0
 while True:
     x += 1
-    if x == 10: # Immer noch nötig, damit der loop nicht infite ist.
+    if x == 10: # Immer noch nötig, damit der loop nicht infinite ist.
         break
     elif x == 5:
         print("Skip!")

@@ -1,9 +1,9 @@
 # 0.1.2: Garbage Collector
 
-# Der Garbage Collector ist ein Mechanismus in Python, der automatisch nicht mehr benötigte 
-# Werte im Speicher freigibt. Er verwendet eine Technik namens "Reference Counting", um 
+# Der Garbage Collector ist ein Mechanismus in Python, der automatisch nicht mehr
+# benötigte Werte im Speicher freigibt. Er verwendet eine Technik namens "reference counting", um 
 # zu verfolgen, wie viele Referenzen auf einen Wert existieren. Wenn die Anzahl der Referenzen 
-# auf einen Wert auf null sinkt, wird der Wert automatisch gelöscht und der Speicher freigegeben.
+# auf den Wert null sinkt, wird der Wert automatisch gelöscht und der Speicher freigegeben.
 
 # Variablen sind Referenzen auf Werte im Speicher. Der Wert liegt also im Speicher (RAM) und 
 # die Variable ist eine Möglichkeit auf diesen Wert zuzugreifen. Die Werte der Variablen bleiben 
@@ -21,20 +21,19 @@
 
 # Hier ist ein Beispiel, um das zu verdeutlichen:
 a = 23  
-# a zeigt auf den Wert 23. Die Referenzanzahl für 23 ist jetzt 1
+# a zeigt auf den Wert 23. Die Referenzanzahl für 23 ist jetzt 1.
 b = 23  
-# b zeigt jetzt auch auf den Wert 23. Die Referenzanzahl für 23 ist jetzt 2
+# b zeigt jetzt auch auf den Wert 23. Die Referenzanzahl für 23 ist jetzt 2.
 
 a = 42          
-# a zeigt jetzt auf den Wert 42. Die Referenzanzahl für 23 ist jetzt 1
+# a zeigt jetzt auf den Wert 42. Die Referenzanzahl für 23 ist jetzt 1.
 
 b = "String"    
 # b zeigt jetzt auf den Wert "String". 
 # Die Referenzanzahl für 23 ist jetzt 0. 23 wird aus dem Speicher gelöscht.
 
+# TODO: add print calls!
 # TODO:
-# 1. Definiere eine Variable und weise ihr einen Wert zu. Gib ihren Wert mit print() in der Konsole aus.
-# 2. Definiere eine weitere Variable und weise ihr denselben Wert zu. Gib ihren Wert mit print() in der 
-# Konsole aus.
-# 3. Ändere den Wert aller Variablen so, dass keine Referenz mehr auf den ursprünglichen Wert zeigt. Gib 
-# deren Werte mit print() in der Konsole aus.
+# 1. Definiere eine Variable und weise ihr einen Wert zu.
+# 2. Definiere eine weitere Variable und weise ihr denselben Wert zu.
+# 3. Ändere den Wert aller Variablen so, dass keine Referenz mehr auf den ursprünglichen Wert zeigt.

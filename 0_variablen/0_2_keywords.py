@@ -5,5 +5,5 @@
 # Python definiert. Hier kannst du alle Keywords nachschlagen: 
 # https://www.programiz.com/python-programming/keyword-list
 
-# Einige dieser Keywords werden wir später noch kennenlernen.
+# Einige dieser keywords werden wir später noch kennenlernen.
 

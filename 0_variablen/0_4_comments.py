@@ -15,8 +15,8 @@ x = 1 + 1 # Das wiederum würde Python ausführen.
 # Kommentare können verwendet werden, um zu erklären, was der Code tut, oder um 
 # Notizen für sich selbst oder andere Entwickler zu hinterlassen. 
 
-# Das hier ist ein gültiger Kommentar
-Das hier ist kein gültiger Kommentar und würde zu einem Syntaxfehler führen
+# Das hier ist ein gültiger Kommentar.
+Das hier ist kein gültiger Kommentar und würde zu einem Syntaxfehler führen.
 
 
 # TODO:

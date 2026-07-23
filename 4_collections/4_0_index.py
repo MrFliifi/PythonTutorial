@@ -1,12 +1,12 @@
 # 4.0: Idex
 
 # Container sind Variablen, die mehrere Werte halten können. In den folgenden Kapiteln 
-# wirst du lists, tuples, sets und dictionaries kennen lernen. Bevor wir die einzelnen
-# container kennen lernen, müssen wir aber erst über den index sprechen.
+# wirst du lists, tuples, sets und dictionaries kennenlernen. Bevor wir die einzelnen
+# container kennenlernen, müssen wir aber erst über den index sprechen.
 
-# Ein index ist ein Integer, den man in den Meisten Programmiersprachen antreffen kann.
+# Ein index ist ein integer, den man in den meisten Programmiersprachen antreffen kann.
 # Ein index ist eine Möglichkeit einen bestimmten Wert in einem Container abzurufen.
-# Einen idex beginnt man mit 0 zu zählen.
+# Einen index beginnt man mit 0 zu zählen.
 
 # 1 2 3 4 5 6 7 8 9 10 So würde man in natürlicher Sprache zählen.
 # 0 1 2 3 4 5 6 7 8 9  So zählt man mit einem index. 
@@ -30,9 +30,9 @@ ordered_list = [1, 2, 3, 1, 2, 3]
 print()
 print("Index 0 von ordered_list: ", ordered_list[0])
 print("Index 3 von ordered_list: ", ordered_list[3])
-# In dem Beispiel ist der Wert der selbe, obwohl wir Werte an unterschiedlichen idexen abrufen.
+# In dem Beispiel ist der Wert der selbe, obwohl wir Werte an unterschiedlichen indexen abrufen.
 
-# Ein container kann auch unordered sein. In ihm sind dann keine duplicaten werde zugelassen, 
+# Ein container kann auch unordered sein. In ihm sind dann keine duplikaten Werte zugelassen, 
 # weil man in ihm die Werte nur anhand des Wertes abrufen kann. Gäbe es duplikate Werte, wäre
 # das Ergebnis nicht mehr eindeutig. Das würde zu einem Fehler führen. Auf unordered container 
 # gehen wir noch in den Kapiteln sets und dictionaries ein.

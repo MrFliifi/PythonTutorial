@@ -4,7 +4,7 @@
 # wird ein try-except-Block verwendet, um Fehler aufzufangen.
 # Hierbei gibt es wieder drei keywords:
 # - try + body
-# - exept + body
+# - except + body
 # - finally + body
 
 # Ein try-except-Block wird von Oben nach Unten gelesen. Zunächst versucht das Programm
@@ -29,4 +29,4 @@ finally:
     print("Mich siehst du immer, weil ich im body von finally bin!")
     
 # TODO:
-# 1. verändere das Beispiel so, dass der body von except nicht ausgeführt wird.
+# 1. Verändere das Beispiel so, dass der body von except nicht ausgeführt wird.

@@ -19,10 +19,10 @@ Er kann über mehrere Zeilen gehen."""
 # Für später:
 
 # Strings sind eine collection von Zeichen. Dadurch, dass Strings collections sind, 
-# können wir mit dem index auf einzelne Zeichen zugreifen. Das bedeutet, dass wir 
+# können wir mit dem Index auf einzelne Zeichen zugreifen. Das bedeutet, dass wir 
 # zum Beispiel den ersten Buchstaben eines Strings mit dem Index 0 erreichen können: 
 
- "H a l l o , _ W e l t  !"[0]  # Gibt 'H' zurück, da der Index bei 0 beginnt
+"H a l l o , _ W e l t  !"[0]  # Gibt 'H' zurück, da der Index bei 0 beginnt
 # 0 1 2 3 4 5 6 7 8 9 10 11
 "Hallo, Welt!"[7]  # Gibt 'W' zurück, da der Index bei 0 beginnt   
 

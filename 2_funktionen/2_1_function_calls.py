@@ -20,12 +20,12 @@ def addition(a, b):
 
 # Die Namen der Parameter ist nicht relevant für den Aufruf der Funktion. Es ist egal, ob die Parameter 
 # in der Signatur der Funktion "addition(a, b)" oder "addition(x, y)" heißen. Wichtig sind aber die 
-# Anzahl und die Reihenfolgeder Parameter, die übergeben werden. 
+# Anzahl und die Reihenfolge der Parameter, die übergeben werden. 
 
 addition(5, 3) # Hier wird der Wert 5 dem Parameter "a" und der Wert 3 dem Parameter "b" zugewiesen. 
 addition(10, 20) # Hier wird der Wert 10 dem Parameter "a" und der Wert 20 dem Parameter "b" zugewiesen.
 
-# man kann der Funktion auch Variablen übergeben.
+# Man kann der Funktion auch Variablen übergeben.
 y, z = 7, 2
 addition(y, z) # Hier wird der Wert 7 dem Parameter "a" und der Wert 2 dem Parameter "b" zugewiesen.
 addition(z, y) # Hier wird der Wert 2 dem Parameter "a" und der Wert 7 dem Parameter "b" zugewiesen.
@@ -35,6 +35,6 @@ addition(z, y) # Hier wird der Wert 2 dem Parameter "a" und der Wert 7 dem Param
 # um sie aufzurufen.
 
 # TODO:
-# 1. Kopiere alle Funktionen , die du im vorherigen Kapitel definiert hast. 
+# 1. Kopiere alle Funktionen, die du im vorherigen Kapitel definiert hast. 
 # Definiere Variablen mit den entsprechenden Werten und übergebe ihnen die entsprechenden Argumente, 
 # damit sie korrekt ausgeführt werden können. Dann rufe sie auf.

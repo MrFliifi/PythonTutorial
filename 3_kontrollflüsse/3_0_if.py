@@ -16,7 +16,7 @@
 
 condition = True    # Die condition muss entwerder True, False, truthy oder falsy sein. 
 
-if condition:       # if-Statement bestehend aus den if-Keyword, der condition und einem :
+if condition:       # if-Statement bestehend aus dem if keyword, der condition und einem :
     # Der Codeblock des if-Statements.
     print("Diese Zeile wird nur ausgeführt, wenn die condition True ist.") 
     print("Es können beliebig viele Zeilen in diesem Block sein.")  
@@ -28,7 +28,7 @@ x = 5
 if x >= 0:
     print("x ist positiv oder null")
     
-# Da in der condition immer ein Comparison Operator verwendet wird, wird geprüft, ob das 
+# Da in der condition immer ein comparison operator verwendet wird, wird geprüft, ob das 
 # Ergebnis des Vergleichs True oder False ist. In diesem Fall ist x größer oder gleich 0, 
 # also ist die condition True und der Codeblock wird ausgeführt.
 
@@ -54,8 +54,8 @@ elif x == 0:
     print("x ist null")
     
 
-# In Python gibt es noch ein keyword, dass verwendet wird, wenn alle Stricke reißen. 
-# Es ist das else keyword. Es wird immer am Ende eines if-elif-Blocks verwendet. Es wird 
+# In Python gibt es noch ein keyword, das verwendet wird, wenn alle Stricke reißen. 
+# Es ist das else keyword. Es wird immer am Ende eines if-elif-Blocks verwendet und wird 
 # nur dann ausgeführt, wenn alle vorherigen conditions False waren. Hier ist ein Beispiel:
 
 x = int(input("Gib eine Zahl ein: "))
@@ -91,12 +91,12 @@ if x == 0:
 # Schreiben wir unser if-Statement so, werden alle conditions überprüft, auch wenn die erste 
 # condition True ist. 
 
-# Jetzt ist ein guter Zeitpunkt, um sich Logical Operators anzuschauen.
+# Jetzt ist ein guter Zeitpunkt, um sich logical operators anzuschauen.
 
 # TODO:
-# 1. Schreibe ein Programm, dass den Benutzer nach seinem Alter fragt und dann ausgibt, ob 
-# er minderjährig, volljährig oder senior ist. (Minderjährig: < 18, Volljährig: >= 18 und < 65, Senior: >= 65)
-# 2. Schreibe ein Programm, dass den Benutzer nach einer Zahl fragt und dann ausgibt, ob die Zahl positiv, 
+# 1. Schreibe ein Programm, das die*den Benutzer*in nach dem Alter fragt und dann ausgibt, ob 
+# sie*er minderjährig, volljährig oder Senior ist. (Minderjährig: < 18, Volljährig: >= 18 und < 65, Senior: >= 65)
+# 2. Schreibe ein Programm, das die*den Nutzer*in nach einer Zahl fragt und dann ausgibt, ob die Zahl positiv, 
 # negativ oder null ist. 
-# 3. Schreibe ein Programm, dass den Nutzer nach zwei Strings fragt und dann ausgibt, ob sie gleich sind.
-# 4. Schreibe ein Programm, dass eine condition mit dem "and" und eine condition mit dem "or" operator prüft.
+# 3. Schreibe ein Programm, das die*den Nutzer*in nach zwei Strings fragt und dann ausgibt, ob sie gleich sind.
+# 4. Schreibe ein Programm, das eine condition mit dem "and"- und eine condition mit dem "or"-Operator prüft.

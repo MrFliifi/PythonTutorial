@@ -1,6 +1,6 @@
 # 4.6: Length
 
-# container haben eine length. Die length des containers kann mit der len() function heraus 
+# Container haben eine length. Die length des containers kann mit der len() function heraus- 
 # gefunden werden. 
 
 list_name = ["ein Wert", 2, True]

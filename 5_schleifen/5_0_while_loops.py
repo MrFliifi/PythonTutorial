@@ -1,10 +1,10 @@
 # 5.0: While Loops
 
-# Programme werden von Oben nach Unten, Zeile für Zeile ausgeführt. Möchte man einen code Block
+# Programme werden von Oben nach Unten, Zeile für Zeile ausgeführt. Möchte man einen code-Block
 # mehr als ein mal ausführen, muss man die Zeilen entweder doppelt schreiben, oder das Programm 
-# mehr mals ausführen. Das wird schnell unübersichtlich und unpraktisch. Deshalb gibt es loops.
+# mehrmals ausführen. Das wird schnell unübersichtlich und unpraktisch. Deshalb gibt es loops.
 
-# Loops sind eine Möglichkeit code Blöcke öfters auszuführen, ohne den code mehr als ein mal zu
+# Loops sind eine Möglichkeit code-Blöcke öfters auszuführen, ohne den code mehr als ein mal zu
 # schreiben. In diesem Kapitel lernen wir den while-loop kennen. Der while-loop verwendet 
 # folgendes keyword:
 # - while condition: + body

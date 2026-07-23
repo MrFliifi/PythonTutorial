@@ -3,8 +3,8 @@
 # Membership operators werden erst im Kapitel "Collections" wichtig. Überspringe dieses Kapitel
 # und komm wieder zurück, wenn du das Kapitel fertig bearbeitet hast. 
 
-# Membership Operators prüfen, ob ein Wert in einer collection enthalten ist. Es handelt sich also
-# um boolshe Operatoren. Sie geben also entweder True oder False zurück.
+# Membership operators prüfen, ob ein Wert in einer collection enthalten ist. Es handelt sich also
+# um boolesche Operatoren. Sie geben entweder True oder False zurück.
 
 # Es gibt hierbei zwei keywords, die wir kennen müssen:
 # - x in y

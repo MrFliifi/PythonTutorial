@@ -1,4 +1,4 @@
-# 1.3: Logical Operators
+# 1.3: Logical operators
 
 # Überspring dieses Kapitel zuerst. Komm wieder, wenn du das Kapitel über Kontrollflüsse 
 # abgeschlossen hast.
@@ -8,9 +8,9 @@
 # - or
 # - not
 
-# Logical operators werden dann verwendet, wenn es darum geht conditions zu prüfen. Brauchen
-# tun wir sie dann, wenn mehr als eine condition geprüft werden muss. Deshalb brauchen wir diese
-# Art von Operator vor allem in den Kapiteln "Kontrollflüsse" und "Schleifen".
+# Logical operators werden dann verwendet, wenn es darum geht conditions zu prüfen. Wir
+# benötigen sie, wenn mehr als eine condition geprüft werden muss. Deshalb brauchen 
+# wir diese Art Operatoren vor allem in den Kapiteln "Kontrollflüsse" und "Schleifen".
 
 # Hier ein paar Beispiele dafür, wie man logical operators verwendet:
 x = 55

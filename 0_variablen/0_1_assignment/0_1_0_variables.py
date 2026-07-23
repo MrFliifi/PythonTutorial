@@ -11,7 +11,7 @@
 # dürfen keine keywords verwendet werden, wie z.B. "if", "else", "for", "while", etc.
 # Verwendet man keywords, so wird ein SyntaxError ausgelöst. 
 
-# Beim benennen von Variablen und fuctions gibt es verschiedene Konventionen, wie 
+# Beim benennen von Variablen und functions gibt es verschiedene Konventionen, wie 
 # z.B. camelCase, snake_case oder PascalCase. In Python wird üblicherweise die
 # snake_case Konvention verwendet. Das bedeutet, dass die Wörter klein geschrieben 
 # sind und durch Unterstriche getrennt werden, z.B. "my_variable_name".
@@ -19,7 +19,7 @@
 # Hier sind einige gültige Beispiele für Variablen in Python:
 mein_integer = 42
 mein_flo4t = 3.14
-MEIN_STRING = "Hallo, Welt!"            # All Caps kennzeichet die Variable als constant
+MEIN_STRING = "Hallo, Welt!"            # All Caps kennzeichnet die Variable als constant
 mein_string = "Tschüss, Welt!"  
 ist_mein_boolean_toll = True            # Booleans benennt man üblicherweise mit einem "is" oder "has" 
 meine_liste = [1, 2, 3, 4, 5]           # Hierzu mehr im Kapitel über collections
@@ -33,14 +33,14 @@ print("MEIN_STRING: ", MEIN_STRING)     # Ausgabe: "Hallo, Welt!"
 
 # Hier sind einige ungültige Beispiele für Variablen in Python:
 # 1variable = 10    | Ungültig, da der Name mit einer Zahl beginnt. 
-# my-variable = 20  | Ungültig, da der Name ein Bindestrich enthält. Würde aber trotzdem compilen.
+# my-variable = 20  | Ungültig, da der Name einen Bindestrich enthält. Es würde aber trotzdem compilen.
 # if = 30           | Ungültig, da "if" ein keyword ist. -> SyntaxError
 # var!@ble; = 10    | Ungültig, da der Name Sonderzeichen enthält. -> SyntaxError
 
 
 
 # TODO: 
-# 1. Definiere drei gültige, aber unterschiedliche Variablen 
-# 2. Gib ihnen Werte mit unterschiedlichen Datentypen 
-# 3. Gib die Werte der Variablen mit print(variablen_name) aus
+# 1. Definiere drei gültige, aber unterschiedliche Variablen.
+# 2. Gib ihnen Werte mit unterschiedlichen Datentypen.
+# 3. Gib die Werte der Variablen mit print(variablen_name) aus.
 

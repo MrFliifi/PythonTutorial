@@ -1,6 +1,6 @@
 # 0.0.3: Booleans
 
-# Beim programmieren mit den meisten Sprachen gibt es einen Datentyp,
+# Beim Programmieren mit den meisten Sprachen gibt es einen Datentyp,
 # der nur zwei Werte annehmen kann: True (wahr) und False (falsch). 
 # Dieser Datentyp nennt sich Boolean. 
 
@@ -8,7 +8,7 @@
 # Booleans werden oft in Bedingungen verwendet, um Entscheidungen zu treffen (if) oder 
 # Schleifen zu steuern (while).
 
-# Booleans entweder sind:
+# Booleans sind entweder:
 True
 False
 
@@ -16,15 +16,15 @@ False
 # Das heißt, sie werden in einem booleschen Kontext als True oder False interpretiert.
 # Das ist nicht in jeder Programmiersprache so. Java kennt diese Art von Werten nicht.
 
-# Beispiele für truthy Werte:
+# Beispiele für truthy-Werte:
 1           # True
 "Hallo"     # True
 [1, 2, 3]   # True    
 
-# Werte, die nicht ohne Wert sind, werde als truthy interpretiert. 
+# Werte, die nicht ohne Wert sind, werden als truthy interpretiert. 
 # Alle Werte, die nicht falsy sind, sind automatisch truthy.
 
-# Beispiele für falsy Werte:
+# Beispiele für falsy-Werte:
 0           # False
 ""          # False
 []          # False

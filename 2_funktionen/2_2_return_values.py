@@ -1,4 +1,4 @@
-# 2.2: return values
+# 2.2: Return values
 
 # Ein Grundprinizip von Funktionen ist, dass sie Input verarbeiten und Werte zurückgeben können. 
 # Das bedeutet, dass eine Funktion nicht nur Anweisungen ausführen, sondern auch ein Ergebnis 
@@ -31,6 +31,6 @@ print(falsches_ergebnis)  # Ausgabe: None
 # TODO:
 # 1. Definiere eine Funktion, die zwei Strings als Parameter nimmt und sie miteinander addiert (konkateniert). 
 # Schreibe das Ergebnis in eine Variable und gebe es mit print() aus.
-# 2. Definiere eine Funktion, die einen einen Float und einen Integer als Parameter nimmt und sie miteinander 
-# multipliziert. Übergebe das Ergebnis an eine andere funktion, die das Ergebnis mit sich selbst potenziert und 
+# 2. Definiere eine Funktion, die einen einen float und einen integer als Parameter nimmt und sie miteinander 
+# multipliziert. Übergebe das Ergebnis an eine andere Funktion, die das Ergebnis mit sich selbst potenziert und 
 # mit print() ausgibt.

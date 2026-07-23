@@ -1,4 +1,4 @@
-# 1.0.0: Arithmatic Operators
+# 1.0.0: Arithmatic operators
 
 # Arithmatische Operatoren kennen wir bereits aus der Mathematik. Sie ermöglichen es uns, 
 # mathematische Operationen durchzuführen. In Python gibt es die folgenden arithmatischen 
@@ -11,7 +11,7 @@
 # %   | Modulo (Rest der Division)
 # **  | Exponentiation (Potenzierung)
 
-# Die ersten vier werde ich nicht weiter erklären. Sie funktionieren genauso wie in der Mathematik.
+# Die ersten vier werde ich nicht weiter erklären. Sie funktionieren genau wie in der Mathematik.
 
 # Die ganzzahlige Division (//) gibt den ganzzahligen Anteil der Division zurück. Zum Beispiel:
 print("10 // 3: ", 10 // 3)   # Ausgabe: 3. Der Rest wird also fallen gelassen.
@@ -32,13 +32,12 @@ ergebnis = ergebnis * 2
 print("Ergebnis: ", ergebnis)  # Ausgabe: 30
 
 # TODO:
-# 1. Definiere zwei Variablen mit Integer-Werten
-# 2. Definiere zwei Variablen mit Float-Werten
+# 1. Definiere zwei Variablen mit integer-Werten.
+# 2. Definiere zwei Variablen mit float-Werten.
 # 3. Führe alle arithmatischen Operationen mit diesen Variablen durch und gib die Ergebnisse 
-# mit print() aus
-
-# 4. Definiere eine Variable mit einem String-Wert. Versuche alle arithmatischen Operationen 
+# mit print() aus.
+# 4. Definiere eine Variable mit einem string-Wert. Versuche alle arithmatischen Operationen 
 # mit dieser Variable durchzuführen und beobachte, welche Ergebnisse du erhältst. Verwende dafür 
-# die Variable mit dem String-Wert und eine der Variablen mit den Integer- oder Float-Werten. Gib
+# die Variable mit dem string-Wert und eine der Variablen mit den integer- oder float-Werten. Gib
 # die Ergebnisse mit print() aus. Was fällt dir auf? Welche Operationen funktionieren und welche 
 # nicht?
