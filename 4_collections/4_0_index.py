@@ -1,4 +1,4 @@
-# 4.0: Idex
+# 4.0: Index
 
 # Container sind Variablen, die mehrere Werte halten können. In den folgenden Kapiteln 
 # wirst du lists, tuples, sets und dictionaries kennenlernen. Bevor wir die einzelnen
